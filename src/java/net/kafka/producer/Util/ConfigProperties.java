@@ -82,15 +82,13 @@ private static final long serialVersionUID = -1851097272122935390L;
 		String zkConnect = config.getProperty("zkconnect");
 	}*/
 
-<<<<<<< HEAD
 	public static void sayHello()
 	{
 		system.out.println("user2 add code1");
-=======
+	}
 	public static void main(String[] args)
 	{
 		System.out.println("user1 commit code2");
->>>>>>> 47af3eba6011af3c4143d710bde46c6b5ee6b614
 	}
 
 }
