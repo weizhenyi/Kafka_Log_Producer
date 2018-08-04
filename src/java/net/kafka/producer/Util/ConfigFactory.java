@@ -38,4 +38,9 @@ public class ConfigFactory {
 
 	}*/
 
+	public static void main(String[] args)
+	{
+		System.out.println("test user1");
+	}
+
 }
