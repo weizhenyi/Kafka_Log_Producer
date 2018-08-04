@@ -90,5 +90,8 @@ private static final long serialVersionUID = -1851097272122935390L;
 	{
 		System.out.println("user1 commit code2");
 	}
+	public static void testRebase()
+	{
+	}
 
 }
